@@ -390,10 +390,10 @@
         "azure-pipelines.yaml",
         ".azure-pipelines.yml",
         ".azure-pipelines.yaml",
-        "azure-pipelines/**/*.yml",
-        "azure-pipelines/**/*.yaml",
-        ".azure-pipelines/**/*.yml",
-        ".azure-pipelines/**/*.yaml",
+        "azure-pipelines/**.yml",
+        "azure-pipelines/**.yaml",
+        ".azure-pipelines/**.yml",
+        ".azure-pipelines/**.yaml"
       ],
       "url": "https://raw.githubusercontent.com/microsoft/azure-pipelines-vscode/master/service-schema.json"
     },
